@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAPI", "CrudAPI\CrudAPI.csproj", "{D4E60496-B0C9-44EE-9445-F0C7F08B85A9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAPI.Contracts", "CrudAPI.Contracts\CrudAPI.Contracts.csproj", "{BD652A79-C365-4B09-A096-F2B7F00B65A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAPI.Contracts", "CrudAPI.Contracts\CrudAPI.Contracts.csproj", "{060339C9-EF7D-4903-BD0C-5397DDB81D95}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAPI", "CrudAPI\CrudAPI.csproj", "{50F7951D-D77E-4AB4-BA4D-5B57F3C94D90}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,13 +24,13 @@ Global
 		{22A1701F-395D-43EA-B4C9-D4F30718A0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22A1701F-395D-43EA-B4C9-D4F30718A0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22A1701F-395D-43EA-B4C9-D4F30718A0D3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4E60496-B0C9-44EE-9445-F0C7F08B85A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4E60496-B0C9-44EE-9445-F0C7F08B85A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4E60496-B0C9-44EE-9445-F0C7F08B85A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4E60496-B0C9-44EE-9445-F0C7F08B85A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{060339C9-EF7D-4903-BD0C-5397DDB81D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{060339C9-EF7D-4903-BD0C-5397DDB81D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{060339C9-EF7D-4903-BD0C-5397DDB81D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{060339C9-EF7D-4903-BD0C-5397DDB81D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD652A79-C365-4B09-A096-F2B7F00B65A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD652A79-C365-4B09-A096-F2B7F00B65A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD652A79-C365-4B09-A096-F2B7F00B65A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD652A79-C365-4B09-A096-F2B7F00B65A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F7951D-D77E-4AB4-BA4D-5B57F3C94D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F7951D-D77E-4AB4-BA4D-5B57F3C94D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F7951D-D77E-4AB4-BA4D-5B57F3C94D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F7951D-D77E-4AB4-BA4D-5B57F3C94D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
