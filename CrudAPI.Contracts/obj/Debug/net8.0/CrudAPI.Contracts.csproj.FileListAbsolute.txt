@@ -1,0 +1,11 @@
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/bin/Debug/net8.0/CrudAPI.Contracts.deps.json
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/bin/Debug/net8.0/CrudAPI.Contracts.dll
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/bin/Debug/net8.0/CrudAPI.Contracts.pdb
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.AssemblyInfoInputs.cache
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.AssemblyInfo.cs
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.csproj.CoreCompileInputs.cache
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.dll
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/refint/CrudAPI.Contracts.dll
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/CrudAPI.Contracts.pdb
+/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI.Contracts/obj/Debug/net8.0/ref/CrudAPI.Contracts.dll
