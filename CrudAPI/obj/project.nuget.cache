@@ -1,16 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IRWorr5+gjeNDJ+bZvK3azOZW8PMYaScMExVDepHSugja3aduCqPv3igXXA1a7HUxAZqE4nNf5xkEuSEc8RqHw==",
+  "dgSpecHash": "QmtR560pFyzqcPxwv4hj1z/VcQfuGFt09fr2VeRGiYYX5f/AxOOMaIY67SKkjKS/t29VtMon8XWCEGMJvi3E6Q==",
   "success": true,
   "projectFilePath": "/Users/troyparsons/Documents/Developer/vsCode/dotNet-REST-API/CrudAPI/CrudAPI.csproj",
   "expectedPackageFiles": [
     "/Users/troyparsons/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
-    "/Users/troyparsons/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+    "/Users/troyparsons/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512"
   ],
   "logs": []
 }
